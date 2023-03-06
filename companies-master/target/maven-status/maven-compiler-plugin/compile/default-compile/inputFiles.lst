@@ -1,0 +1,13 @@
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\model\CompanyType.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\bl\Queries.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\bl\dao\companies\CompaniesRowMapper.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\bl\AbstractJDBCDao.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\conf\prop\AppProps.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\web\AddServlet.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\web\CompaniesController.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\web\MainController.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\bl\AbstractMapper.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\bl\dao\companies\CompaniesDao.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\conf\SpringWebConfig.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\conf\WebInitializer.java
+C:\Users\mikolaa\Downloads\companies-master-intellij\companies-master\companies-master\src\main\java\si\igea\companies\model\Company.java

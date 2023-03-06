@@ -1,0 +1,12 @@
+si\igea\companies\web\CompaniesController.class
+si\igea\companies\conf\prop\AppProps.class
+si\igea\companies\bl\Queries.class
+si\igea\companies\bl\AbstractMapper.class
+si\igea\companies\model\CompanyType.class
+si\igea\companies\model\Company.class
+si\igea\companies\web\MainController.class
+si\igea\companies\conf\WebInitializer.class
+si\igea\companies\bl\AbstractJDBCDao.class
+si\igea\companies\web\AddServlet.class
+si\igea\companies\bl\dao\companies\CompaniesDao.class
+si\igea\companies\conf\SpringWebConfig.class
